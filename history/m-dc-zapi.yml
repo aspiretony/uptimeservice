@@ -1,7 +1,7 @@
 url: https://zapi.api.mdbr.tech
-status: down
-code: 503
-responseTime: 588
-lastUpdated: 2022-09-19T01:00:59.780Z
+status: up
+code: 200
+responseTime: 1671
+lastUpdated: 2022-09-19T03:56:37.704Z
 startTime: Fri Sep 16 2022 04:24:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
