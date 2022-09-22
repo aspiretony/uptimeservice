@@ -6,7 +6,7 @@ sites:
   - name: MDcAtendimento
     url: https://atendimento.mdbr.tech
   - name: MDcZapi
-    url: https://zapi.api.mdbr.tech
+    url: https://speed.mdbr.tech/checkserver.php
   - name: MDcBot
     url: http://140.238.178.147:5678
   - name: MDcGateway
