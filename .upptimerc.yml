@@ -7,7 +7,7 @@ sites:
     url: https://atendimento.mdbr.tech
   - name: MDcZapi
     url: https://zapi.api.mdbr.tech
-  - name: MDcBroadcast
+  - name: MDcBot
     url: http://140.238.178.147:5678
   - name: MDcGateway
     url: https://speed.mdbr.tech
