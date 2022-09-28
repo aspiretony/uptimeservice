@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/speed.mdbr.tech",
     "slug": "m-dc-zapi",
     "status": "up",
-    "uptime": "83.07%",
+    "uptime": "84.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.12%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "83.07%",
+    "uptimeWeek": "89.20%",
+    "uptimeMonth": "84.02%",
+    "uptimeYear": "84.02%",
     "time": 600,
     "timeDay": 579,
     "timeWeek": 584,
@@ -46,9 +46,9 @@
     "url": "http://140.238.178.147:5678",
     "icon": "https://favicons.githubusercontent.com/140.238.178.147",
     "slug": "m-dc-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 280,
     "timeMonth": 280,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "MDcGateway",
